@@ -1,0 +1,23 @@
+h1{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+.big_div{
+	border: 1px solid yellow;
+
+}
+.one_div{
+
+display:flex;
+	border: 1px solid pink ;
+}
+.small-div1{
+	width:10%;
+height:20%;
+	border: 1px solid red ;
+}
+.small-div2{
+	border: 2px solid black ;
+}
